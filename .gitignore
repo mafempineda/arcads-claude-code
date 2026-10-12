@@ -28,3 +28,6 @@ scripts/generate-thumbnails.sh
 scripts/generate-thumbnails-*.sh
 scripts/generate-ab-variants*.sh
 scripts/regen-*.sh
+
+# video-edit skill ships its own docs in references/ (root rule above would drop them)
+!skills/video-edit/references/
