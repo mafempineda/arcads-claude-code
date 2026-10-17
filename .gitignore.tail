@@ -3,3 +3,6 @@ scripts/generate-thumbnails.sh
 scripts/generate-thumbnails-*.sh
 scripts/generate-ab-variants*.sh
 scripts/regen-*.sh
+
+# stop-slop skill ships its reference docs in skills/stop-slop/references/ (not local media)
+!skills/stop-slop/references/
